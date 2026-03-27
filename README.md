@@ -1,8 +1,8 @@
 <div align="center">
 
-# Xin chào 👋, mình là Nguyễn Khắc Đạt
+# Hi there , I'm Nguyễn Khắc Đạt
 
-### 🚀 Front-end Developer · React.js / Next.js · Intern / Fresher
+###  Front-end Developer · React.js / Next.js · Intern / Fresher
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionate+Front-end+Developer;React.js+%7C+Next.js+%7C+Tailwind+CSS;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 
@@ -10,13 +10,12 @@
 
 ---
 
-## 👨‍💻 Về mình
+## 👨‍💻 About Me
 
-- 🎯 Đang tìm kiếm vị trí **Intern / Fresher Front-end Developer**
-- 💼 Đã thực tập **5 tháng** tại **AHT Tech** — React.js, Redux, Redux Thunk
-- 🛠️ Tự xây dựng 3 dự án cá nhân từ đầu: Pizza App, Quiz App, Cabin Dashboard
-- 📍 Hà Nội, Việt Nam
-- 📫 Liên hệ: **datkhac09@gmail.com**
+- 🎯 Looking for a **Intern / Fresher Front-end Developer** position
+- 💼 Interned **5 months** at **AHT Tech** — React.js, Redux, Redux Thunk
+- 📍 Ha Noi, Vietnam
+- 📫 Contact: **datkhac09@gmail.com**
 
 ---
 
@@ -53,40 +52,25 @@
 
 ---
 
-## 🚀 Dự án nổi bật
+## 🚀 Featured Projects
 
-| Project | Demo | Repo | Tech |
-|--------|------|------|------|
-| 🍕 **Pizza Website** | [pizzassss.vercel.app](https://pizzassss.vercel.app) | [GitHub](https://github.com/datkhac009/pizza) | React, Redux Toolkit, Tailwind |
-| 🎮 **Quiz App** | [quizss-phi.vercel.app](https://quizss-phi.vercel.app) | [GitHub](https://github.com/datkhac009/quiz) | React, Context API, Tailwind |
-| 🏠 **Booking Cabin Dashboard** | [booking-cabins.vercel.app](https://booking-cabins.vercel.app/login) | [GitHub](https://github.com/datkhac009/booking-cabins) | Next.js, Supabase, React Query |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=datkhac009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datkhac009&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=datkhac009&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+| Project | Demo | Repo |
+|---------|------|------|
+| 🍕 **Pizza Website** | [pizzassss.vercel.app](https://pizzassss.vercel.app) | [GitHub](https://github.com/datkhac009/pizza) |
+| 🎮 **Quiz App** | [quizss-phi.vercel.app](https://quizss-phi.vercel.app) | [GitHub](https://github.com/datkhac009/quiz) |
+| 🏠 **Booking Cabin Dashboard** | [booking-cabins.vercel.app](https://booking-cabins.vercel.app/login) | [GitHub](https://github.com/datkhac009/booking-cabins) |
 
 ---
 
-## 🤝 Kết nối với mình
+
+
+## 🤝 Connect with Me
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:datkhac09@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/datkhac009)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dat.09.k)
 
 </div>
 
