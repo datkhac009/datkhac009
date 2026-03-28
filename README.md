@@ -2,7 +2,7 @@
 
 # Hi there , I'm Nguyễn Khắc Đạt
 
-###  Front-end Developer · React.js / Next.js · Intern / Fresher
+###  Front-end Developer · React.js / Next.js 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Passionate+Front-end+Developer;React.js+%7C+Next.js+%7C+Tailwind+CSS;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 
