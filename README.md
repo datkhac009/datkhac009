@@ -52,15 +52,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Demo | Repo |
-|---------|------|------|
-| 🍕 **Pizza Website** | [pizzassss.vercel.app](https://pizzassss.vercel.app) | [GitHub](https://github.com/datkhac009/pizza) |
-| 🎮 **Quiz App** | [quizss-phi.vercel.app](https://quizss-phi.vercel.app) | [GitHub](https://github.com/datkhac009/quiz) |
-| 🏠 **Booking Cabin Dashboard** | [booking-cabins.vercel.app](https://booking-cabins.vercel.app/login) | [GitHub](https://github.com/datkhac009/booking-cabins) |
-
----
 
 
 
