@@ -12,8 +12,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 Looking for a **Intern / Fresher Front-end Developer** position
-- 💼 Interned **5 months** at **AHT Tech** — React.js, Redux, Redux Thunk
+- 🎯 Front-end Developer** 
+- 💼 Interned **5 months** at **AHT Tech** — React.js, Redux, Redux Thunk, Form Hook, React Query, Next.js
 - 📍 Ha Noi, Vietnam
 - 📫 Contact: **datkhac09@gmail.com**
 
