@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🎯 Front-end Developer** 
-- 💼 Interned **5 months** 
+- 💼 I have been interning for 5 months so far
 - 📍 Ha Noi, Vietnam
 - 📫 Contact: **datkhac09@gmail.com**
 
