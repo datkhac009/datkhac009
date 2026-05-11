@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🎯 Front-end Developer** 
-- 💼 Interned **5 months** at **AHT Tech** — React.js, Redux, Redux Thunk, Form Hook, React Query, Next.js
+- 💼 Interned **5 months** 
 - 📍 Ha Noi, Vietnam
 - 📫 Contact: **datkhac09@gmail.com**
 
