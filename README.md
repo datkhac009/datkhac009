@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🎯 **Front-end Developer** (React.js / Next.js · TypeScript)
-- 💼 ~1 year of hands-on experience building real-world web apps — from a government data system to an enterprise AI platform
+- 💼 with over 1 year of hands-on experience building real-world web apps — from a government data system to an enterprise AI platform
 - 🌱 Focused on clean & reusable UI, good performance, and maintainable code
 - 📍 Ha Noi, Vietnam
 - 📫 Contact: **datkhac09@gmail.com**
