@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there , I'm Nguyễn Khắc Đạt
+# Hi there , I'm Nguyen Khac Dat (AKA datnk)
 
 ###  Front-end Developer · React.js / Next.js 
 
